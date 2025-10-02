@@ -1,4 +1,4 @@
-package Dia1_Variables;
+package main.java.dia1_variables;
 
 public class Concatenacion {
     public static void main(String[] args) {
