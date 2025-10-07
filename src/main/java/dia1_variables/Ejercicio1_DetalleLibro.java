@@ -2,7 +2,7 @@ package main.java.dia1_variables;
 
 import java.util.Scanner;
 
-public class Ejercicio_1_DetalleLibro {
+public class Ejercicio1_DetalleLibro {
         /*
         Se solicita introducir inforamcion del siguiente libro:
 
